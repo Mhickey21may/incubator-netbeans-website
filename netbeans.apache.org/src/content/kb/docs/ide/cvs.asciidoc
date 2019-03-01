@@ -35,7 +35,7 @@ NetBeans IDE's CVS support is designed to help streamline the development proces
 
 This document demonstrates how to perform basic versioning tasks in the IDE by guiding you through the standard workflow when using versioning software.
 
-CVS, or Concurrent Versions System, is an open-source version control system that keeps track of all work and changes in a set of files. This is typically used during the implementation of a software project, allowing multiple developers to collaborate. For more information about CVS, consult the link:http://ximbiot.com/cvs/[+official documentation+].
+CVS, or Concurrent Versions System, is an open-source version control system that keeps track of all work and changes in a set of files. This is typically used during the implementation of a software project, allowing multiple developers to collaborate. For more information about CVS, consult the link:https://www.gnu.org/software/trans-coord/manual/cvs/cvs.html
 
 === Synchronizing Local Files with a Repository
 
